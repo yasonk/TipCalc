@@ -5,9 +5,6 @@
 Submitted by: **TipCalc**
 
 Time spent: **5** hours spent in total
-Had an older version of Xcode, which did not work well with the walkthrough.
-But after upgrading to the latest, ran into a bunch of issues and had to start
-from scratch.
 
 ## User Stories
 
@@ -32,9 +29,16 @@ The following **required** functionality is complete:
       
       ## Video Walkthrough 
       
-      Here's a walkthrough of implemented user stories:
+      Basic Features Story + UI Animations walkthrough:
       
-      <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video
+      <img
+      src='https://github.com/yasonk/TipCalc/blob/master/basic_features.gif' title='Video
+      Walkthrough' width=' alt='Video Walkthrough' />
+
+
+      Settings Screen walkthrough:
+      <img
+      src='https://github.com/yasonk/TipCalc/blob/master/settings.gif' title='Video
       Walkthrough' width=' alt='Video Walkthrough' />
       
       GIF created with [LiceCap](http://www.cockos.com/licecap/).
