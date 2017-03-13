@@ -29,14 +29,14 @@ The following **required** functionality is complete:
       
       ## Video Walkthrough 
       
-      Basic Features Story + UI Animations walkthrough:
+      ### Basic Features Story + UI Animations walkthrough:
       
       <img
       src='https://github.com/yasonk/TipCalc/blob/master/basic_features.gif' title='Video
       Walkthrough' width=' alt='Video Walkthrough' />
 
 
-      Settings Screen walkthrough:
+      ### Settings Screen walkthrough:
       <img
       src='https://github.com/yasonk/TipCalc/blob/master/settings.gif' title='Video
       Walkthrough' width=' alt='Video Walkthrough' />
